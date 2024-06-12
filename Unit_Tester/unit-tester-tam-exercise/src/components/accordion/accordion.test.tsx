@@ -40,7 +40,7 @@ test('expands and collapses accordion item on button click', async () => {
   expect(itemButton).toHaveAttribute('aria-expanded', 'false');
 });
 
-it("Evinced unit tester basic example", async () => {
+it("Andrew Accordion Test", async () => {
   render(
     <Accordion>
       <AccordionItem title="Item 1">Content 1</AccordionItem>
@@ -51,7 +51,6 @@ it("Evinced unit tester basic example", async () => {
   
   const myComponent = screen.getByText('Item 1');
 
-  // Scan for a11y issues and assert on the results
   const results = await EvincedUT.analyzeAccordion(myComponent);
   expect(results).toHaveNoFailures();
 });
