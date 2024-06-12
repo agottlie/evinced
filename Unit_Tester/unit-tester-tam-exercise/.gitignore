@@ -22,3 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /.cache
+/package
+/unit-tester-1.5.2.tgz
