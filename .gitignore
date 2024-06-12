@@ -4,6 +4,6 @@ package-lock.json
 package.json
 playwright-report
 
-/Unit-Tester/unit-tester-tam-exercise/.cache
-/Unit-Tester/unit-tester-tam-exercise/unit-tester-1.5.2.tgz
-/Unit-Tester/unit-tester-tam-exercise/package
+Unit-Tester/unit-tester-tam-exercise/.cache
+Unit-Tester/unit-tester-tam-exercise/unit-tester-1.5.2.tgz
+Unit-Tester/unit-tester-tam-exercise/package
